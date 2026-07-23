@@ -31,3 +31,5 @@ pokedex-main/
 ```
 
 ## 📸 Preview
+
+<img width="620" height="753" alt="image" src="https://github.com/user-attachments/assets/1d6f8589-e8ee-4468-88ce-9a487a34b544" />
