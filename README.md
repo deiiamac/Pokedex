@@ -1,0 +1,33 @@
+# Pokédex
+
+Aplicação web desenvolvida que consome a PokeAPI para listar e exibir informações dos Pokémon, como imagem, nome, número, em uma interface simples e responsiva.
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- PokeAPI
+
+## ✨ Funcionalidades
+
+- Interface simples e intuitiva para navegação;
+- Estrutura organizada para fácil manutenção e evolução;
+- Experiência visual limpa e responsiva;
+- Possibilidade de expansão com novas funcionalidades no futuro.
+
+## 📂 Estrutura do Projeto
+
+```text
+pokedex-main/
+├── css/
+│   └── style.css
+├── favicons/
+├── images/
+├── js/
+│   └── script.js
+├── index.html
+└── README.md
+```
+
+## 📸 Preview
